@@ -1,3 +1,10 @@
+.fullpage {
+    max-width: 1024px;
+    max-height: auto;
+    margin: 10px;
+    padding: 5px;
+}
+
 .divborder {
     border: 2px solid #272D2D;
     margin: 10px;
