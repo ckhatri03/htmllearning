@@ -3,3 +3,8 @@
     margin: 10px;
     padding: 5px;
 }
+
+.w3-aliceblue {
+    color: #000 !important;
+    background-color: #EDF5FC !important
+}
