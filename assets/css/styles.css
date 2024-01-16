@@ -64,6 +64,11 @@
     background-color: #1a237e !important
 }
 
+.w3-theme-d5 {
+    color: #fff !important;
+    background-color: #2380d1 !important
+}
+
 .w3-theme-action {
     color: #fff !important;
     background-color: #311b92 !important
@@ -71,4 +76,21 @@
 
 .w3-text-theme {
     color: #1a237e !important
+}
+
+.w3-border-theme {
+    border-color: #edf5fc !important
+}
+
+.w3-hover-theme:hover {
+    color: #000 !important;
+    background-color: #edf5fc !important
+}
+
+.w3-hover-text-theme:hover {
+    color: #edf5fc !important
+}
+
+.w3-hover-border-theme:hover {
+    border-color: #edf5fc !important
 }
