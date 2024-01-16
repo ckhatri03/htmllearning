@@ -2,3 +2,9 @@ body.soft-aqua {
     color: aqua;
     background-color: aquamarine;
 }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
